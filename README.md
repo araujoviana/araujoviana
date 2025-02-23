@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **araujoviana/araujoviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This readme is a work in progress, i'll update it once its done ☺️
