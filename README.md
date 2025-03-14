@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This readme is a work in progress, i'll update it once its done ☺️
+[![Araujoviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoviana)](https://github.com/anuraghazra/github-readme-stats)
