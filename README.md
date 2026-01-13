@@ -65,8 +65,3 @@ Cloud + systems engineering. I build tooling, automate ops, and ship practical i
 - **Red Hat System Administration I (RH124)**, **II (RH134)**
 - **PCAP: Programming Essentials in Python**
 - **CS50P**, **CS50W**
-
-## GitHub stats
-
-[![araujoviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoviana)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoviana)](https://github.com/anuraghazra/github-readme-stats)
