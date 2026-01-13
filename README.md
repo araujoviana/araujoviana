@@ -1,50 +1,72 @@
-# Matheus Araujo
+# Hi, I’m Matheus Araujo
 
-Cloud + systems engineering. I build practical tooling, ship automation, and like software that’s fast, reliable, and straightforward.
+<pre>
+                            _            _                  
+  ____ __________ ___  __  (_)___ _   __(_)___ _____  ____ _
+ / __ `/ ___/ __ `/ / / / / / __ \ | / / / __ `/ __ \/ __ `/
+/ /_/ / /  / /_/ / /_/ / / / /_/ / |/ / / /_/ / / / / /_/ / 
+\__,_/_/   \__,_/\__,_/_/ /\____/|___/_/\__,_/_/ /_/\__,_/  
+                     /___/                                  
+</pre>
 
-- **Solutions Architect Intern @ Huawei Cloud** (2025–present)
-- **BSc Computer Science @ Mackenzie** (expected 2027)
-- Based in **São Paulo, BR**
+Cloud + systems engineering. I build tooling, automate ops, and ship practical infrastructure work.
 
-## Focus areas
+<div align="center">
 
-- **Cloud architecture & infrastructure:** HA/DR, scalability, landing zones, networking, IAM/least privilege
-- **Kubernetes & containers:** Deployments/StatefulSets/Jobs, Services/Ingress, ConfigMaps/Secrets, troubleshooting via logs/events
-- **Linux & automation:** systemd, networking tools, SSH, shell scripting, CI basics, IaC concepts (Terraform)
-- **Data & messaging:** PostgreSQL/MySQL/MongoDB, Redis, Kafka/RabbitMQ, OpenSearch
-- **Applied AI tooling:** local-first RAG pipelines, OCR, embeddings/reranking, vector search, evaluation mindset
+[![Website](https://img.shields.io/badge/website-maraujo.netlify.app-1f6feb?style=flat&logo=google-chrome&logoColor=white)](https://maraujo.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-matheus--g--viana-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-g-viana/)
+[![Email](https://img.shields.io/badge/email-matheusaraujo%40proton.me-6d4aff?style=flat&logo=proton&logoColor=white)](mailto:matheusaraujo@proton.me)
+[![GitHub](https://img.shields.io/badge/github-araujoviana-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/araujoviana)
+
+</div>
+
+## About
+
+- **Solutions Architect Intern @ Huawei Cloud** (02/2025–present) — cloud architecture, customer-facing troubleshooting, and systems-focused delivery.
+- **BSc Computer Science @ Mackenzie** (expected **01/2027**)
+- Comfortable across **Linux, networking fundamentals, Kubernetes workflows, and automation**.
+- Languages: **Python (strong)**, **Rust/C/Java (solid)**, **SQL & Bash (comfortable)**.
 
 ## Featured projects
 
-- **[obsctl](https://github.com/araujoviana/obsctl)** — performance-focused CLI for cloud object storage (Rust). Buckets + objects, progress bars, sane defaults, readable output, practical throughput.
-- **[dog](https://github.com/araujoviana/dog)** — local-first RAG over personal docs + audio (Python). Ingestion, OCR for scanned PDFs, embeddings/reranking, UI + CLI, TOML config.
-- **[an-cli](https://github.com/araujoviana/an-cli)** — numerical analysis toolkit designed for scripting/piping (Python). Root finding, differentiation, integration, interpolation, least squares; optional tables + plots.
-- **[file-manager](https://github.com/araujoviana/file-manager)** — lightweight GUI file manager (Python + Dear PyGui). Metadata inspection + quick navigation.
-- **[proj-assembly-estrutura-dados](https://github.com/araujoviana/proj-assembly-estrutura-dados)** — REPL interpreter for a custom assembly-like language (Java). Registers, memory buffer, control flow, program load/save.
-- **[copperknight](https://github.com/araujoviana/copperknight)** — full-stack art sharing platform (Django). Auth, uploads, gallery, follow/favorite, search.
+- **[obsctl](https://github.com/araujoviana/obsctl)** — performance-focused CLI for cloud object storage (Rust). Reliability + speed, sane UX, readable output, large-data workflows.
+- **[dog](https://github.com/araujoviana/dog)** — local-first RAG over personal documents + audio (Python). OCR ingestion, semantic search, conversational querying, privacy-first.
+- **[an-cli](https://github.com/araujoviana/an-cli)** — numerical analysis toolkit for scriptable workflows (Python). Root finding, differentiation, integration, interpolation, least squares (+ optional plotting).
+- **[file-manager](https://github.com/araujoviana/file-manager)** — lightweight GUI file manager (Python + Dear PyGui). Metadata inspection + system-level file handling.
+- **[proj-assembly-estrutura-dados](https://github.com/araujoviana/proj-assembly-estrutura-dados)** — REPL interpreter for a custom assembly-inspired language (Java). Registers, memory, control flow, program load/save.
+- **[copperknight](https://github.com/araujoviana/copperknight)** — art sharing web platform (Django). Auth, persistence, and practical full-stack structure.
 
-## Skills snapshot
+## Skill set
 
-**Languages:** Python (strong), Rust/C/Java (solid), SQL & Bash (comfortable)  
-**Cloud:** reference architectures, VPC-style networking (routing/DNS/NAT/LB), observability, security fundamentals  
-**K8s/Containers:** Kubernetes + Docker/Podman, Helm, GitOps familiarity (Argo CD), metrics (Prometheus/Grafana)  
-**Linux:** Ubuntu/RHEL-style admin, CLI-first debugging, tcpdump/Wireshark familiarity  
-**AI tooling:** OCR (Tesseract), FAISS/vector search, Transformers, Whisper/ASR, PyTorch familiarity
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## Certifications / courses
+### Systems / Cloud / Infra
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,terraform,git,github&perline=7" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### Languages / Data / Messaging
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,c,java,postgres,mysql,mongodb,redis,kafka,elasticsearch&perline=6" />
+</div>
+
+</td>
+</tr>
+</table>
+
+## Courses / certifications
 
 - **HCIA – Huawei Cloud**
 - **Red Hat System Administration I (RH124)**, **II (RH134)**
 - **PCAP: Programming Essentials in Python**
-- **CS50P** (Intro to Programming with Python), **CS50W** (Web Programming with Python & JavaScript)
+- **CS50P**, **CS50W**
 
-## Links
-
-- Website: https://maraujo.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/matheus-g-viana/
-- Email: matheusaraujo@proton.me (alt: araujomatheusgabriel1@gmail.com)
-
----
+## GitHub stats
 
 [![araujoviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoviana)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoviana)](https://github.com/anuraghazra/github-readme-stats)
