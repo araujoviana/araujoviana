@@ -15,7 +15,7 @@ Cloud + systems engineering. I build tooling, automate ops, and ship practical i
 
 [![Website](https://img.shields.io/badge/website-maraujo.netlify.app-1f6feb?style=flat&logo=google-chrome&logoColor=white)](https://maraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-matheus--g--viana-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-g-viana/)
-[![Email](https://img.shields.io/badge/email-matheusaraujo%40proton.me-6d4aff?style=flat&logo=proton&logoColor=white)](mailto:matheusaraujo@proton.me)
+[![Email](https://img.shields.io/badge/email-matheusaraujo1%40pm.me-6d4aff?style=flat&logo=proton&logoColor=white)](mailto:matheusaraujo1@pm.me)
 [![GitHub](https://img.shields.io/badge/github-araujoviana-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/araujoviana)
 
 </div>
