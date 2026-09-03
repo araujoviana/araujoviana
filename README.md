@@ -1,67 +1,61 @@
-# Hi, I’m Matheus Araujo
+# Hi, I'm Matheus Araujo
 
-<pre>
-                            _            _                  
-  ____ __________ ___  __  (_)___ _   __(_)___ _____  ____ _
- / __ `/ ___/ __ `/ / / / / / __ \ | / / / __ `/ __ \/ __ `/
-/ /_/ / /  / /_/ / /_/ / / / /_/ / |/ / / /_/ / / / / /_/ / 
-\__,_/_/   \__,_/\__,_/_/ /\____/|___/_/\__,_/_/ /_/\__,_/  
-                     /___/                                  
-</pre>
+```text
+ ▄▄▄       ██▀███   ▄▄▄       █    ██  ▄▄▄██▀▀▀▒█████   ██▒   █▓ ██▓ ▄▄▄       ███▄    █  ▄▄▄
+▒████▄    ▓██ ▒ ██▒▒████▄     ██  ▓██▒   ▒██  ▒██▒  ██▒▓██░   █▒▓██▒▒████▄     ██ ▀█   █ ▒████▄
+▒██  ▀█▄  ▓██ ░▄█ ▒▒██  ▀█▄  ▓██  ▒██░   ░██  ▒██░  ██▒ ▓██  █▒░▒██▒▒██  ▀█▄  ▓██  ▀█ ██▒▒██  ▀█▄
+░██▄▄▄▄██ ▒██▀▀█▄  ░██▄▄▄▄██ ▓▓█  ░██░▓██▄██▓ ▒██   ██░  ▒██ █░░░██░░██▄▄▄▄██ ▓██▒  ▐▌██▒░██▄▄▄▄██
+ ▓█   ▓██▒░██▓ ▒██▒ ▓█   ▓██▒▒▒█████▓  ▓███▒  ░ ████▓▒░   ▒▀█░  ░██░ ▓█   ▓██▒▒██░   ▓██░ ▓█   ▓██▒
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▒▓▒ ▒ ▒  ▒▓▒▒░  ░ ▒░▒░▒░    ░ ▐░  ░▓   ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒   ▓▒█░
+  ▒   ▒▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░░░▒░ ░ ░  ▒ ░▒░    ░ ▒ ▒░    ░ ░░   ▒ ░  ▒   ▒▒ ░░ ░░   ░ ▒░  ▒   ▒▒ ░
+  ░   ▒     ░░   ░   ░   ▒    ░░░ ░ ░  ░ ░ ░  ░ ░ ░ ▒       ░░   ▒ ░  ░   ▒      ░   ░ ░   ░   ▒
+      ░  ░   ░           ░  ░   ░      ░   ░      ░ ░        ░   ░        ░  ░         ░       ░  ░
+```
 
-Cloud + systems engineering. I build tooling, automate ops, and ship practical infrastructure work.
+> Solutions Architect Intern at Huawei Cloud. I design multi-tenant cloud
+> architecture, operate Kubernetes, and build the internal Rust and Python
+> tooling that runs alongside it.
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/website-maraujo.netlify.app-1f6feb?style=flat&logo=google-chrome&logoColor=white)](https://maraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-matheus--g--viana-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-g-viana/)
-[![Email](https://img.shields.io/badge/email-matheusaraujo1%40pm.me-6d4aff?style=flat&logo=proton&logoColor=white)](mailto:araujomatheusgabriel1@gmail.com)
+[![Email](https://img.shields.io/badge/email-araujomatheusgabriel1%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:araujomatheusgabriel1@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-araujoviana-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/araujoviana)
 
 </div>
 
-## About
+## Now
 
-- **Solutions Architect Intern @ Huawei Cloud** (02/2025–present) — cloud architecture, customer-facing troubleshooting, and systems-focused delivery.
-- **BSc Computer Science @ Mackenzie** (expected **01/2027**)
-- Comfortable across **Linux, networking fundamentals, Kubernetes workflows, and automation**.
-- Languages: **Python (strong)**, **Rust/C/Java (solid)**, **SQL & Bash (comfortable)**.
+- **Solutions Architect Intern @ Huawei Cloud** (May 2025 – present): designing cloud architectures across compute, storage, networking, and managed services with a focus on high availability and disaster recovery; deploying and operating Kubernetes (CCE) in multi-tenant environments; automating infrastructure with Terraform; running technical workshops for customers in Portuguese and English.
+- Building a bilingual **TUI portfolio rendered on a WebGL CRT shader** (Rust / Leptos).
+- **BSc Computer Science** @ Universidade Presbiteriana Mackenzie, São Paulo — expected **mid-2027**.
+- Portuguese (native), English (fluent). Comfortable presenting technical content in both.
 
-## Featured projects
+## Selected work
 
-- **[obsctl](https://github.com/araujoviana/obsctl)** — performance-focused CLI for cloud object storage (Rust). Reliability + speed, sane UX, readable output, large-data workflows.
-- **[dog](https://github.com/araujoviana/dog)** — local-first RAG over personal documents + audio (Python). OCR ingestion, semantic search, conversational querying, privacy-first.
-- **[an-cli](https://github.com/araujoviana/an-cli)** — numerical analysis toolkit for scriptable workflows (Python). Root finding, differentiation, integration, interpolation, least squares (+ optional plotting).
-- **[file-manager](https://github.com/araujoviana/file-manager)** — lightweight GUI file manager (Python + Dear PyGui). Metadata inspection + system-level file handling.
-- **[proj-assembly-estrutura-dados](https://github.com/araujoviana/proj-assembly-estrutura-dados)** — REPL interpreter for a custom assembly-inspired language (Java). Registers, memory, control flow, program load/save.
-- **[copperknight](https://github.com/araujoviana/copperknight)** — art sharing web platform (Django). Auth, persistence, and practical full-stack structure.
+- **[hc-forge](https://github.com/araujoviana/hc-forge)** — Desktop and mobile toolbox for Huawei Cloud operations: ECS lifecycle, EIP/EVS, an integrated SSH terminal, CCE and OBS workflows, Docker and Minikube helpers. Rust backend signing API requests, Vue 3 frontend, packaged with Tauri.
+- **[mcp-hwc](https://github.com/araujoviana/mcp-hwc)** — Unofficial MCP server for Huawei Cloud. Exposes tools (VM creation, container deployment, log queries, price quoting) that an AI assistant like Claude Code calls from natural-language commands.
+- **[pod-identity-cce](https://github.com/araujoviana/pod-identity-cce)** — Go test suite for Huawei Cloud CCE Pod Identity: environment variable injection, credential acquisition and rotation, provider chain resolution, and permission isolation across ServiceAccounts. Containerized via SWR, driven by Kubernetes manifests and bash.
+- **[faultline](https://github.com/araujoviana/faultline)** — Design a cloud architecture with an AI agent, then fail an availability zone or a whole region and watch the blast radius propagate. Rust. Built for the OpenAI WebMCP Challenge.
+- **[litellm-maas-quickstart](https://github.com/araujoviana/litellm-maas-quickstart)** — Self-hosted LiteLLM proxy on Huawei Cloud, provisioned with Terraform (VPC, ECS, security group, EIP) and configured with Ansible, running LiteLLM and PostgreSQL via Docker Compose. Routes requests to MaaS (ModelArts Studio) models through a custom-provider mechanism.
+- **[obsctl](https://github.com/araujoviana/obsctl)** — CLI for Huawei OBS bucket and object management: parallel transfers, authentication profiles, progress tracking, structured output. Rust.
 
-## Skill set
+## Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Cloud / Kubernetes / IaC**
 
-### Systems / Cloud / Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,terraform,git,github&perline=7" />
-</div>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,tauri,vue,githubactions&perline=7" />
 
-</td>
-<td valign="top" width="50%">
+**Systems / languages / data**
 
-### Languages / Data / Messaging
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,c,java,postgres,mysql,mongodb,redis,kafka,elasticsearch&perline=6" />
-</div>
+<img src="https://skillicons.dev/icons?i=linux,arch,redhat,bash,git,python,rust,go,c,java,postgres,mysql,mongodb,redis,rabbitmq,kafka,elasticsearch&perline=9" />
 
-</td>
-</tr>
-</table>
+**AI** — RAG pipelines · OCR ingestion · LLM integration · MCP servers · agent tooling
 
-## Courses / certifications
+## Certifications
 
-- **HCIA – Huawei Cloud**
-- **Red Hat System Administration I (RH124)**, **II (RH134)**
-- **PCAP: Programming Essentials in Python**
-- **CS50P**, **CS50W**
+- **Cloud** — HCIA – Huawei Cloud · HCCDP – Cloud Migration · AWS Academy Graduate, Cloud Foundations · Google Cloud Computing Foundations
+- **Linux** — Red Hat System Administration I (RH124) and II (RH134)
+- **AI** — Model Context Protocol: Advanced Topics (Anthropic) · AI Agents Fundamentals (Databricks)
+- **Data** — Google Cloud Data Analytics
