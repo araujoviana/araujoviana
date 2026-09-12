@@ -20,7 +20,7 @@
 
 [![Website](https://img.shields.io/badge/website-maraujo.netlify.app-1f6feb?style=flat&logo=google-chrome&logoColor=white)](https://maraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-matheus--g--viana-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-g-viana/)
-[![Email](https://img.shields.io/badge/email-araujomatheusgabriel1%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:araujomatheusgabriel1@gmail.com)
+
 
 </div>
 
