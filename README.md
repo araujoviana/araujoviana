@@ -12,10 +12,6 @@
       ░  ░   ░           ░  ░   ░      ░   ░      ░ ░        ░   ░        ░  ░         ░       ░  ░
 ```
 
-> Solutions Architect Intern at Huawei Cloud. I design multi-tenant cloud
-> architecture, operate Kubernetes, and write the internal Rust and Python
-> tooling the team uses day to day.
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/website-maraujo.netlify.app-1f6feb?style=flat&logo=google-chrome&logoColor=white)](https://maraujo.netlify.app/)
