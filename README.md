@@ -22,8 +22,8 @@
 
 ## Now
 
-- **Solutions Architect Intern at Huawei Cloud** since May 2025. I design cloud architectures across compute, storage, networking, and managed services, with high availability and disaster recovery as the priority. I also deploy and operate Kubernetes (CCE) in multi-tenant projects, automate infrastructure with Terraform, and run technical workshops for customers in Portuguese and English.
-- Studying Computer Science at Universidade Presbiteriana Mackenzie, São Paulo. Graduating mid-2027.
+- **Solutions Architect Intern at Huawei Cloud**. I design cloud architectures across compute, storage, networking, and managed services, with high availability and disaster recovery as the priority. I also deploy and operate Kubernetes in multi-tenant project and automate infrastructure with Terraform.
+- Studying Computer Science at Universidade Presbiteriana Mackenzie, São Paulo.
 - Portuguese native, English fluent. I work and present in both.
 
 ## Selected work
