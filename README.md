@@ -51,5 +51,5 @@
 
 - **Cloud**: HCIA (Huawei Cloud), HCCDP Cloud Migration, AWS Academy Graduate Cloud Foundations, Google Cloud Computing Foundations
 - **Linux**: Red Hat System Administration I (RH124) and II (RH134)
-- **AI**: Model Context Protocol Advanced Topics (Anthropic), AI Agents Fundamentals (Databricks)
+- **AI**: AI Practitioner (AWS), Model Context Protocol Advanced Topics (Anthropic), AI Agents Fundamentals (Databricks)
 - **Data**: Google Cloud Data Analytics
