@@ -39,6 +39,7 @@
 
 **Recently updated:**
 <!-- recent starts -->
+[autocalc](https://github.com/araujoviana/autocalc) *(Nov 5)* · [faultline](https://github.com/araujoviana/faultline) *(Oct 15)* · [mcp-hwc](https://github.com/araujoviana/mcp-hwc) *(Oct 8)* · [burn-mario-rl](https://github.com/araujoviana/burn-mario-rl) *(Oct 6)*
 <!-- recent ends -->
 
 ## Stack
