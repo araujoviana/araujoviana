@@ -28,12 +28,19 @@
 
 ## Selected work
 
-- **[hc-forge](https://github.com/araujoviana/hc-forge)**: desktop and mobile toolbox for Huawei Cloud operations. Covers ECS lifecycle, EIP/EVS, an integrated SSH terminal, CCE and OBS workflows, and Docker/Minikube helpers. Rust backend that signs the API requests, Vue 3 frontend, packaged with Tauri.
 - **[mcp-hwc](https://github.com/araujoviana/mcp-hwc)**: unofficial MCP server for Huawei Cloud. Exposes tools like VM creation, container deployment, log queries, and price quoting so an AI assistant such as Claude Code can call them from plain language.
+- **[autocalc](https://github.com/araujoviana/autocalc)**: unofficial CLI and MCP server for the Huawei Cloud pricing calculator. Builds quotes and share links from a terminal or from an AI agent. TypeScript, Bun, Playwright.
 - **[pod-identity-cce](https://github.com/araujoviana/pod-identity-cce)**: Go test suite for Huawei Cloud CCE Pod Identity. Checks environment variable injection, credential acquisition and rotation, provider chain resolution, and permission isolation across ServiceAccounts. Runs as containers from SWR, driven by Kubernetes manifests and bash.
 - **[faultline](https://github.com/araujoviana/faultline)**: design a cloud architecture with an AI agent, then fail an availability zone or a whole region and watch the blast radius spread. Rust. Built for the OpenAI WebMCP Challenge.
 - **[litellm-maas-quickstart](https://github.com/araujoviana/litellm-maas-quickstart)**: self-hosted LiteLLM proxy on Huawei Cloud. Terraform provisions the VPC, ECS, security group, and EIP; Ansible configures the box; LiteLLM and PostgreSQL run in Docker Compose. Requests reach MaaS (ModelArts Studio) models through a custom-provider setup.
+- **[huawei-minecraft-server](https://github.com/araujoviana/huawei-minecraft-server)**: Terraform for a Minecraft server on Huawei Cloud. An Auto Scaling group of one replaces a failed instance, the world lives on SFS Turbo, CBR backs it up daily, and Cloud Eye alarms send email through SMN.
 - **[obsctl](https://github.com/araujoviana/obsctl)**: CLI for Huawei OBS buckets and objects. Parallel transfers, auth profiles, progress tracking, structured output. Rust.
+- **[burn-mario-rl](https://github.com/araujoviana/burn-mario-rl)**: a PPO agent that plays Super Mario World, in Rust with Burn. It reads the game's memory instead of the screen. The included model clears 6 of the 8 levels it trained on in 85 to 100 percent of attempts, and it does not carry over to levels it hasn't seen.
+
+## Recently updated
+
+<!-- recent starts -->
+<!-- recent ends -->
 
 ## Stack
 
