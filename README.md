@@ -1,4 +1,4 @@
-# Hi, I'm Matheus Araujo
+# Hi, I'm Matheus Araujo 🛸
 
 <div align="center">
   <img src="assets/space.svg" alt="Animated ASCII spaceships flying through a starfield" width="100%">
