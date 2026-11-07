@@ -40,6 +40,11 @@
 ## Recently updated
 
 <!-- recent starts -->
+- **[autocalc](https://github.com/araujoviana/autocalc)**: Headless Huawei Cloud pricing calculator (CLI + MCP server) *(updated 2026-11-05)*
+- **[faultline](https://github.com/araujoviana/faultline)**: Design a cloud architecture with your AI agent, then fail an AZ or a whole region and watch the blast radius. OpenAI WebMCP Challenge entry. *(updated 2026-10-15)*
+- **[mcp-hwc](https://github.com/araujoviana/mcp-hwc)**: Unofficial Huawei Cloud MCP server implementation *(updated 2026-10-08)*
+- **[burn-mario-rl](https://github.com/araujoviana/burn-mario-rl)**: PPO agent that plays Super Mario World, in Rust. *(updated 2026-10-06)*
+- **[huawei-minecraft-server](https://github.com/araujoviana/huawei-minecraft-server)**: Minecraft server on Huawei Cloud, provisioned end-to-end with Terraform (Auto Scaling, SFS Turbo, CBR backups, CES/SMN monitoring). *(updated 2026-09-16)*
 <!-- recent ends -->
 
 ## Stack
